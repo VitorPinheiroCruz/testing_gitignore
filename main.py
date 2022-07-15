@@ -1,1 +1,3 @@
-main
+import teste
+
+print(teste.name)
